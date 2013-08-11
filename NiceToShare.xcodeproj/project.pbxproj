@@ -165,7 +165,7 @@
 			attributes = {
 				CLASSPREFIX = DL;
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = "Daemonic Labs";
+				ORGANIZATIONNAME = "SEDIFY";
 			};
 			buildConfigurationList = AF39B47817AC68CF009D1984 /* Build configuration list for PBXProject "NiceToShare" */;
 			compatibilityVersion = "Xcode 3.2";
