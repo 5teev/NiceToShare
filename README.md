@@ -6,4 +6,6 @@ TODO: add photo export to clipboard, photo library, etc.
 
 *Note: some method-swizzling code is included, but it isn't actually used.*
 
+*(Some techniques for customizing the email form use swizzling to set the email subject.)*
+
 
